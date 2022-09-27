@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="UltimateStatique4" size="1.000000 1.395393" />
+    <ImageTarget name="UltimateStatique3" size="1.000000 1.391969" />
+    <ImageTarget name="UltimateStatique2" size="1.000000 1.393130" />
+    <ImageTarget name="UltimateStatique" size="1.000000 1.392924" />
+    <ImageTarget name="Ancrage" size="0.500000 0.500000" />
+    <ImageTarget name="Start" size="0.500000 0.697154" />
+    <ImageTarget name="End" size="0.500000 0.697154" />
+    <ImageTarget name="Statique" size="0.500000 0.688259" />
+    <ImageTarget name="testimage2" size="1.000000 1.333333" />
+    <ImageTarget name="testimage" size="1.000000 1.396584" />
+    <ImageTarget name="image0" size="1.000000 1.106734" />
+    <ImageTarget name="DSC_0238" size="1.000000 1.448598" />
+    <ImageTarget name="DSC_0237" size="1.000000 1.568163" />
+    <ImageTarget name="DSC_0236" size="0.500000 0.888514" />
+    <ImageTarget name="Chemin" size="0.500000 0.752212" />
+    <ImageTarget name="Croisement" size="0.500000 0.741472" />
+    <ImageTarget name="Croisement2" size="0.500000 0.784560" />
+  </Tracking>
+</QCARConfig>
